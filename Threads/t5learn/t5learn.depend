@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733352464 source:e:\shits\ovid fac\ovid. info\facultate\an2\sistemedeoperare\threads\t5learn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+
